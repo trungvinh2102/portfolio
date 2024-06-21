@@ -1464,4 +1464,8 @@ section,
   justify-content: space-around;
 }
 
+.avatar img {
+  border-radius: 10px;
+}
+
 /*--------------------------------------------------------------
